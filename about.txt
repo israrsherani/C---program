@@ -1,0 +1,6 @@
+Name: Israr Khan
+Registration number: 70405
+Department: Information Technology
+Semester: 2nd Semester
+Programming language: C++
+Software engineering interest: Version Control and Automation
